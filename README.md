@@ -34,3 +34,4 @@ Bootstrap
 
 //Link 
 
+ https://rickylovescode.github.io/WizTheCodeQuiz/
