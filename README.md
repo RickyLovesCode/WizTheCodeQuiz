@@ -29,7 +29,8 @@ Bootstrap
 
 //Preview
 
-https://watch.screencastify.com/v/ntNdntnxjxVW8UjJPNcA
+![Code Quiz](https://user-images.githubusercontent.com/69219899/147435553-cc55f17e-a1c9-4d59-a8bd-c5aaf4ce0ef1.gif)
+
 
 //Link 
 
