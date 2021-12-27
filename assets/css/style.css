@@ -4,17 +4,17 @@ body {
 
 h1,
 h2 {
-  color: #313740;
+  color: blueviolet;
   font-family: "Montserrat", sans-serif;
 }
 
 a {
-  color: #3290a6;
+  color: blueviolet;
   font-family: "Archivo", sans-serif;
 }
 
 a:hover {
-  color: #99b8bf;
+  color: black;
   font-family: "Archivo", sans-serif;
 }
 
@@ -23,7 +23,7 @@ a:hover {
 .btn:visited {
   outline: none !important;
   box-shadow: none !important;
-  background-color: blueviolet;
+  background-color: #343a40;
 }
 
 #finalScore {
